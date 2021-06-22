@@ -56,7 +56,6 @@ You can find the projects [here](https://diogomarques2003.github.io/10-javascrip
 
 9. Password Generator
 
--   Design: https://codepen.io/FlorinPop17/full/BaBePej
 -   numbers
 -   letters
 -   symbols
