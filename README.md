@@ -1,6 +1,6 @@
 # 10 JavaScript Projects
 
-You can find the projects [here](https://diogomarques2003.github.io/10-javascript-projects/).
+You can find the projects [here](https://10jsprojects.diogomarques.dev/).
 
 1. Countdown Timer
 
