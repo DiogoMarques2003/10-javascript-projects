@@ -4,7 +4,7 @@ const minsEl = document.getElementById("mins");
 const secondsEl = document.getElementById("seconds");
 
 function countdown() {
-    const newYearsDate = new Date(`1 Jan 2022 ${new Date().getFullYear() + 1}`);
+    const newYearsDate = new Date(`1 Jan ${new Date().getFullYear() + 1}`);
     const currentDate = new Date();
 
     const totalSeconds = (newYearsDate - currentDate) / 1000;
