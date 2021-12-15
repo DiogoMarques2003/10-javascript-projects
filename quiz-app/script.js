@@ -2,7 +2,7 @@ const quizData = [
     {
         question: 'How old is Diogo?',
         a: '10',
-        b: '17',
+        b: '18',
         c: '26',
         d: '110',
         correct: 'b'
